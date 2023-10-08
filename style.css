@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size:32px;
+}
+
+p img{
+    height:300px;
+    width:auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    
+    display:inline-block;
+    text-align: left;
+}
